@@ -3,6 +3,6 @@
 Members:
 - Brian Ton
 - David Zhang
-- Frank
+- Frank Jiang
 - Andrea Wu
 - Emily
